@@ -1,0 +1,1 @@
+bot: python bot.py --steam-key $STEAM --discord-token $DISCORD
